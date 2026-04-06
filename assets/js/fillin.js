@@ -19,6 +19,7 @@ const ONCLICK_REPLACEMENTS = {
   'spotify': "window.open('https://open.spotify.com/user/31pi3ohexpsdoho4yrktnbnlyd6u?si=6c370749be9f449e', '_blank');",
   'snapchat': "window.open('https://www.snapchat.com/@milan_angus', '_blank');",
   'github': "window.open('https://github.com/m1l4n10', '_blank');",
+  'mywebsite': "window.open('https://m1l4n10.is-a.dev', '_blank');",
 };
 
 //Choose the picture you want as your body background, and paste the path here. If you don't want a background, just leave it as an empty string.
