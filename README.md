@@ -12,7 +12,7 @@ A simple, customizable Linktree-style page to showcase your social media links a
 
 ## Demo
 
-Visit the live demo: [m1l4n10.is-a.dev/linktree](https://m1l4n10.is-a.dev/linktree) (or wherever hosted)
+Visit the live demo: [m1l4n10.is-a.dev/linktree](https://m1l4n10.is-a.dev/linktree)
 
 ## How to Use
 
@@ -31,8 +31,8 @@ Visit the live demo: [m1l4n10.is-a.dev/linktree](https://m1l4n10.is-a.dev/linktr
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript (minimal, for background setting)
 
 ## License
