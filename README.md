@@ -1,27 +1,44 @@
-# linktree | A personalized linktree + 100% free to use!
+# Linktree Clone
 
-If you need help, Support or just have questions, contact me [here](https://discord.com/users/1215682123219079259).
+A simple, customizable Linktree-style page to showcase your social media links and personal website in one place.
 
-----
+## Features
 
-1. Click on [this](https://github.com/m4lxn-cloudX/linktree) site on the green button **<> Code** and click **Download Zip**.
+- Responsive design optimized for mobile devices
+- Profile picture and username display
+- Grid layout for social media links
+- Easy customization via HTML and CSS
+- Background image support
 
-2. Go into your downloads and extract the files.
+## Demo
 
-3. Move the files to a save place, where its safe and not getting deleted. For example, i am using *Documents/GitHub/projects/*.
+Visit the live demo: [m1l4n10.is-a.dev/linktree](https://m1l4n10.is-a.dev/linktree) (or wherever hosted)
 
-4. Open [Index.html](https://github.com/m4lxn-cloudX/linktree/blob/main/index.html) in a [localhost](https://www.youtube.com/watch?v=_Tl-6HeV0Rc) and see if everything is working. You should now see a personal linktree with already filled in Data.
+## How to Use
 
-5. Go to *assets/js/* and open **fillin.js** with Visual Studio Code, if installed or the text editor. 
-Now you should see something like this:
-![-](assets/img/Screenshot%20fillin.js%20for%20readme.md.png)
+1. Clone or download this repository.
+2. Edit `index.html` to update your profile information, links, and images.
+3. Replace `assets/img/profile.jpeg` with your profile picture.
+4. Update `assets/img/Background.webp` for a custom background.
+5. Host the files on any static web server (e.g., GitHub Pages, Netlify).
 
-6. Now you just follow the instructions in the [fillin.js](https://github.com/m4lxn-cloudX/linktree/blob/main/assets/js/fillin.js) file and save the file with *file -> save* or just *CTRL + S*.
+## Customization
 
-----
+- **Profile**: Change the username and profile picture in `index.html`.
+- **Links**: Update the URLs in the `onclick` attributes for each social grid item.
+- **Styling**: Modify `assets/css/main.css` to change colors, fonts, and layout.
+- **Icons**: Replace image sources with your preferred icons.
 
--> If you are having issues with the script problems with the instrcutions, feel free to contact me [here](https://discord.com/users/1215682123219079259).
+## Technologies Used
 
-----
+- HTML5
+- CSS3
+- JavaScript (minimal, for background setting)
 
-**more comming soon...**
+## License
+
+Copyright © 2026 m1l4n10. All rights reserved.
+
+## Support
+
+For questions or support, contact via [Discord](https://discord.com/users/1215682123219079259).
