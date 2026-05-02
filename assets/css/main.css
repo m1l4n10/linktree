@@ -1,32 +1,31 @@
-body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    padding: 10px;
-    box-sizing: border-box;
-    min-height: 100vh;
+.UserName {
+    font-size: 20px;
 }
 
-.content {
+.underheaaderimg {
+    height: 40px;
+    border-radius: 7.5px;
+}
+
+.underheaaderimg:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 9px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+.container {
     position: relative;
     z-index: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 100%;
-    max-width: 340px;
 }
 
 .linktree {
     padding: 20px;
-    width: 100%;
+    width: 400px;
     box-sizing: border-box;
-    height: auto;
     margin-top: 20px;
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(20px) saturate(180%);
@@ -39,14 +38,14 @@ body {
     justify-content: center;
 }
 
-.profile-content {
-    width: 100%;
+.profile {
     box-sizing: border-box;
-    height: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    width: 365px;
+    height: 300px;
     border: 1px solid rgba(255, 255, 255, 0.35);
     border-radius: 20px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
@@ -56,15 +55,13 @@ body {
     background: rgba(255, 255, 255, 0.2);
 }
 
-.profile-picture {
+.profile-pic {
     height: 90px;
     width: 90px;
     border-radius: 20px;
-    object-fit: cover;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 
-.profile-picture:hover {
+.profile-pic:hover {
     cursor: pointer;
 }
 
@@ -130,4 +127,132 @@ body {
 .footer {
     margin-top: 8px;
     text-align: center;
+}
+
+@media (max-width: 700px) {
+    .UserName {
+    font-size: 20px;
+    }
+
+    .underheaaderimg {
+        height: 40px;
+        border-radius: 7.5px;
+    }
+
+    .underheaaderimg:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 9px rgba(0, 0, 0, 0.2);
+        cursor: pointer;
+    }
+
+    body {
+
+    }
+
+    .container {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .linktree {
+        padding: 20px;
+        width: 335px;
+        height: auto;
+        box-sizing: border-box;
+        margin-top: 20px;
+        background: rgba(255, 255, 255, 0.15);
+        backdrop-filter: blur(20px) saturate(180%);
+        -webkit-backdrop-filter: blur(20px) saturate(180%);
+        border-radius: 15px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .profile {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 310px;
+        height: 275px;
+        border: 1px solid rgba(255, 255, 255, 0.35);
+        border-radius: 20px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+        backdrop-filter: blur(10px);
+        gap: 14px;
+        padding: 24px;
+        background: rgba(255, 255, 255, 0.2);
+    }
+
+
+    .profile-pic {
+        height: 90px;
+        width: 90px;
+        border-radius: 20px;
+    }
+
+    .profile-pic:hover {
+        cursor: pointer;
+    }
+
+    .socials {
+        display: flex;
+        gap: 12px;
+        justify-content: center;
+        margin-top: 12px;
+    }
+
+    .grid {
+        width: 100%;
+        box-sizing: border-box;
+        margin-top: 10px;
+    }
+
+    .socialgrid {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 12px;
+        background: rgba(255, 255, 255, 0.4);
+        border: 1px solid rgba(255, 255, 255, 0.55);
+        border-radius: 999px;
+        margin-bottom: 10px;
+        padding: 8px 16px;
+        width: 100%;
+        height: 56px;
+        box-sizing: border-box;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .icon-wrap {
+        width: 36px;
+        height: 36px;
+        flex-shrink: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .socialgridimg {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        display: block;
+    }
+
+    .socialgrid a {
+        font-size: 16px;
+        color: #000;
+        text-decoration: none;
+        flex: 1;
+        text-align: center;
+    }
 }
