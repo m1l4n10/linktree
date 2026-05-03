@@ -1,6 +1,10 @@
-# Linktree Clone
+# linktree | A personalized linktree + 100% free to use! V2.0.1
 
 A simple, customizable Linktree-style page to showcase your social media links and personal website in one place.
+
+## NEW
+
+I can finally announce that the site will no longer be accessible at m1l4n.is-a.dev/linktree, but thanks to the ability to request a URL via is-a.dev, it is now accessible at linktree.m1l4n10.is-a.dev.
 
 ## Features
 
