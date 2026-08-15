@@ -1,4 +1,4 @@
-/* V2.1.0 */ 
+/* V3.0.0 */ 
 .UserName {
     font-size: 20px;
 }
@@ -46,7 +46,7 @@
     align-items: center;
     justify-content: center;
     width: 365px;
-    height: 300px;
+    height: 190px;
     border: 1px solid rgba(255, 255, 255, 0.35);
     border-radius: 20px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
@@ -183,7 +183,7 @@
         align-items: center;
         justify-content: center;
         width: 310px;
-        height: 275px;
+        height: 200px;
         border: 1px solid rgba(255, 255, 255, 0.35);
         border-radius: 20px;
         box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
