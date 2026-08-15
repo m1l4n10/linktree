@@ -1,4 +1,4 @@
-# linktree | A personalized linktree + 100% free to use! V3.0.0
+# linktree | A personalized linktree + 100% free to use! V3.0.1
 
 A simple, customizable Linktree-style page to showcase your social media links and personal website in one place.
 
@@ -16,7 +16,7 @@ I can finally announce that the site will no longer be accessible at m1l4n.is-a.
 
 ## Demo
 
-Visit the live demo: [m1l4n10.is-a.dev/linktree](https://m1l4n10.is-a.dev/linktree)
+Visit the live demo: [linktree.m1l4n10.is-a.dev](https://linktree.m1l4n10.is-a.dev
 
 ## How to Use
 
