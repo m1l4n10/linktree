@@ -5,7 +5,7 @@ document.body.style.backgroundAttachment = "fixed";
 document.body.style.backgroundPosition = "center";
 document.body.style.backgroundRepeat = "no-repeat";
 
-fetch('data/URL.JSON')
+fetch('../../data/URL.JSON')
   .then(response => {
     if (!response.ok) {
       throw new Error('JSON konnte nicht geladen werden');
