@@ -1,0 +1,47 @@
+/* V4.0.0 */
+{
+  "links": [
+    {
+      "id": "snapchat",
+      "url": "https://www.snapchat.com/@milan_angus",
+      "img": "assets/img/linktree/snapchat.png",
+      "alt": "Snapchat",
+      "label": "Snapchat"
+    },
+    {
+      "id": "tiktok",
+      "url": "https://www.tiktok.com/@milan_.1410",
+      "img": "assets/img/linktree/tiktok.png",
+      "alt": "TikTok",
+      "label": "TikTok"
+    },
+    {
+      "id": "spotify",
+      "url": "https://open.spotify.com/user/31pi3ohexpsdoho4yrktnbnlyd6u?si=6c370749be9f449e",
+      "img": "assets/img/linktree/spotify.png",
+      "alt": "Spotify",
+      "label": "Spotify"
+    },
+    {
+      "id": "instagram",
+      "url": "https://www.instagram.com/milan_.1410/",
+      "img": "assets/img/linktree/instagram.png",
+      "alt": "Instagram",
+      "label": "Instagram"
+    },
+    {
+      "id": "github",
+      "url": "https://github.com/m1l4n10",
+      "img": "assets/img/linktree/github.svg",
+      "alt": "GitHub",
+      "label": "GitHub"
+    },
+    {
+      "id": "discord",
+      "url": "https://discord.com/users/1215682123219079259",
+      "img": "assets/img/linktree/discord.png",
+      "alt": "Discord",
+      "label": "Discord"
+    }
+  ]
+}

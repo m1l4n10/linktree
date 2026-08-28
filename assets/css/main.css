@@ -1,4 +1,4 @@
-/* V3.1.1 */ 
+/* V4.0.0 */ 
 .UserName {
     font-size: 20px;
 }
@@ -144,10 +144,6 @@
         transform: translateY(-2px);
         box-shadow: 0 4px 9px rgba(0, 0, 0, 0.2);
         cursor: pointer;
-    }
-
-    body {
-
     }
 
     .container {
