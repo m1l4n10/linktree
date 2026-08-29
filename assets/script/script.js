@@ -1,5 +1,5 @@
-/* V4.0.2 */
-document.body.style.backgroundImage = "url('assets/img/background.webp')";
+/* V4.0.3 */
+document.body.style.backgroundImage = "url('assets/img/Background.webp')";
 document.body.style.backgroundSize = "cover";
 document.body.style.backgroundAttachment = "fixed";
 document.body.style.backgroundPosition = "center";
