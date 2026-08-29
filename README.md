@@ -1,10 +1,10 @@
-# linktree | A personalized linktree + 100% free to use! V4.0.2
+# Linktree | A personalized Linktree-style page that is 100% free to use! v4.0.2
 
 A simple, customizable Linktree-style page to showcase your social media links and personal website in one place.
 
-## NEW
+## New
 
-I can finally announce that the site will no longer be accessible at m1l4n.is-a.dev/linktree, but thanks to the ability to request a URL via is-a.dev, it is now accessible at linktree.m1l4n10.is-a.dev.
+I can finally announce that the site will no longer be available at m1l4n.is-a.dev/linktree. However, thanks to the ability to request a URL through is-a.dev, it is now available at linktree.m1l4n10.is-a.dev.
 
 ## Features
 
@@ -16,15 +16,15 @@ I can finally announce that the site will no longer be accessible at m1l4n.is-a.
 
 ## Demo
 
-Visit the live demo: [linktree.m1l4n10.is-a.dev](https://linktree.m1l4n10.is-a.dev
+Visit the live demo: [linktree.m1l4n10.is-a.dev](https://linktree.m1l4n10.is-a.dev)
 
 ## How to Use
 
 1. Clone or download this repository.
 2. Edit `index.html` to update your profile information, links, and images.
 3. Replace `assets/img/profile.jpeg` with your profile picture.
-4. Update `assets/img/Background.webp` for a custom background.
-5. Host the files on any static web server (e.g., GitHub Pages, Netlify).
+4. Update `assets/img/Background.webp` with your custom background image.
+5. Host the files on any static web server (for example, GitHub Pages or Netlify).
 
 ## Customization
 
@@ -37,7 +37,7 @@ Visit the live demo: [linktree.m1l4n10.is-a.dev](https://linktree.m1l4n10.is-a.d
 
 - HTML
 - CSS
-- JavaScript (minimal, for background setting)
+- JavaScript (minimal, for setting the background)
 
 ## License
 
@@ -45,4 +45,4 @@ Copyright © 2026 m1l4n10. All rights reserved.
 
 ## Support
 
-For questions or support, contact via [Discord](https://discord.com/users/1215682123219079259).
+For questions or support, contact me on [Discord](https://discord.com/users/1215682123219079259).
