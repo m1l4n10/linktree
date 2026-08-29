@@ -1,3 +1,4 @@
+V5.0.000
 /
 ├── index.html
 ├── assets/
@@ -13,6 +14,7 @@
 │   │       ├── instagram.png
 │   │       ├── github.svg
 │   │       └── discord.png
+│   │       └── discord.png_disabled
 │   └── script/
 │       └── script.js
 └── data/

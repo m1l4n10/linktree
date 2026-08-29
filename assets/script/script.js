@@ -1,4 +1,4 @@
-/* V4.1.0 */
+/* V5.0.000 */
 document.body.style.backgroundImage = "url('https://m1l4n10.github.io/linktree/assets/img/Background.webp')";
 document.body.style.backgroundSize = "cover";
 document.body.style.backgroundAttachment = "fixed";
