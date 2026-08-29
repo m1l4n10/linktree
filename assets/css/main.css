@@ -86,6 +86,7 @@
     gap: 12px;
     background: rgba(255, 255, 255, 0.4);
     border: 1px solid rgba(255, 255, 255, 0.55);
+    /* rgba(255, 255, 255, 0.55) */
     border-radius: 999px;
     margin-bottom: 10px;
     padding: 8px 16px;
@@ -128,6 +129,11 @@
 .footer {
     margin-top: 8px;
     text-align: center;
+}
+
+.footer a {
+    color: rgba(255, 255, 255, 0.363);
+    text-decoration: none;
 }
 
 @media (max-width: 700px) {
