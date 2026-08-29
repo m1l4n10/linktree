@@ -16,4 +16,4 @@
 │   └── script/
 │       └── script.js
 └── data/
-    └── URLs.JSON
+    └── URL.JSON

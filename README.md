@@ -1,4 +1,4 @@
-# Linktree | A personalized Linktree-style page that is 100% free to use! v4.0.3
+# Linktree | A personalized Linktree-style page that is 100% free to use! v4.1.0
 
 A simple, customizable Linktree-style page to showcase your social media links and personal website in one place.
 

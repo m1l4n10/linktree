@@ -1,11 +1,11 @@
-/* V4.0.3 */
-document.body.style.backgroundImage = "url('assets/img/Background.webp')";
+/* V4.1.0 */
+document.body.style.backgroundImage = "url('https://m1l4n10.github.io/linktree/assets/img/Background.webp')";
 document.body.style.backgroundSize = "cover";
 document.body.style.backgroundAttachment = "fixed";
 document.body.style.backgroundPosition = "center";
 document.body.style.backgroundRepeat = "no-repeat";
 
-fetch('../../data/url.JSON')
+fetch('data/URL.JSON')
   .then(response => {
     if (!response.ok) {
       throw new Error('JSON konnte nicht geladen werden');
