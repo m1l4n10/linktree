@@ -1,5 +1,5 @@
 /* V5.0 */
-document.body.style.backgroundImage = "url('https://m1l4n10.github.io/linktree/assets/img/Background.webp')";
+document.body.style.backgroundImage = "url('https://m1l4n10.github.io/linktree/assets/img/Background.jpg')";
 document.body.style.backgroundSize = "cover";
 document.body.style.backgroundAttachment = "fixed";
 document.body.style.backgroundPosition = "center";
